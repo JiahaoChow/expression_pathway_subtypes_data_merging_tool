@@ -3,12 +3,12 @@
 This is a simple project to process data in biological information.
 ## Getting Started
 
-Please install Pandas. 
+Please install `Pandas`. 
 
-Then you should change the file name 
+Then you should change the file names 
 in the corresponding lines. 
 
-You should at least have three file: expression file, pathway file and
+You should at least have three files: expression file, pathway file and
 subtypes file.
 
 Simply, run `run.py` to get the merging files.
